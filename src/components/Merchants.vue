@@ -3,8 +3,8 @@
     <div class="container">
       <div class="mt-4">
         <div>
-          <div>
-            <h3>Merchants</h3>
+          <div class="mb-3">
+            <b><h2>Merchants</h2></b>
           </div>
           <div class="d-flex">
             <h5 class="text-secondary mr-4 sub__header" @click="method">All</h5>

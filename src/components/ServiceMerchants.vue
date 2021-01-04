@@ -9,7 +9,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Women's Top</h5>
           </div>
         </div>
       </div>
@@ -21,7 +21,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Top</h5>
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Black Cap</h5>
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Top</h5>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Bag</h5>
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Watch</h5>
           </div>
         </div>
       </div>
@@ -83,7 +83,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Bag</h5>
           </div>
         </div>
       </div>
@@ -95,7 +95,7 @@
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Men's Belt</h5>
           </div>
         </div>
       </div>
