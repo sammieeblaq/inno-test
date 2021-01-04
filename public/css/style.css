@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.banner {
+  width: 100%;
+  height: 300px;
+}
+
+.grey__col {
+  background-color: #80808029;
+}
+
+.sub__header {
+  cursor: pointer;
+}
+
+.sub__header:hover {
+  text-decoration: underline black solid;
+}
